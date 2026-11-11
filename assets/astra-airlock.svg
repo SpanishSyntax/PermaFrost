@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>Airlock</title>
+  <!-- Hatch rim and bolts -->
+  <circle cx="256" cy="256" r="232" fill="#0B5A92"/>
+  <g fill="#0B3B60">
+    <circle cx="437.1" cy="331.0" r="13"/>
+    <circle cx="331.0" cy="437.1" r="13"/>
+    <circle cx="181.0" cy="437.1" r="13"/>
+    <circle cx="74.9" cy="331.0" r="13"/>
+    <circle cx="74.9" cy="181.0" r="13"/>
+    <circle cx="181.0" cy="74.9" r="13"/>
+    <circle cx="331.0" cy="74.9" r="13"/>
+    <circle cx="437.1" cy="181.0" r="13"/>
+  </g>
+  <!-- Porthole window with the user -->
+  <circle cx="256" cy="256" r="160" fill="#2B8CD6"/>
+  <circle cx="256" cy="215.8" r="33" fill="#FFE3D4"/>
+  <path d="M187.8 330.2a68.2 55 0 0 1 136.4 0Z" fill="#FFE3D4"/>
+</svg>
